@@ -9,7 +9,7 @@ DongwooKim00/DongwooKim00 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 # Hi!
-I'm Dongwoo Kim. You can call me Dongwoo :)
+I'm Dongwoo. Nice to see you :)
 
 ## My academic background
 - **Hankuk Academy of Foreign Studies (HAFS)**, Natural Science Course. 2016 ~ 2019.
