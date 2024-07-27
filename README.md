@@ -11,7 +11,7 @@ I'm Dongwoo. Nice to see you :)
 
 ## I'm interested in ...
 - Internal medicine (especially cardiology)
-- AI in medicine
+- Medical AI
 - Data science & statistics
 
 ## Programming languages
