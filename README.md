@@ -2,7 +2,7 @@
 - 👀 I’m interested in internal medicine (especially cardiology), AI, and data science in medicine.
 - 🌱 I’m currently learning LLM and statistics used in data science with Python & R.
 - 📫 You can reach me by email (dongwoo6249@gmail.com).
-- ⚡ Fun facts: I can speak Korean, English, and Japanese. Personally, Japanese is more comfortable for me than English😂
+- ⚡ Fun facts: I can speak Korean, English, and Japanese. Japanese is more comfortable for me than English, though😂
 
 <!---
 DongwooKim00/DongwooKim00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
