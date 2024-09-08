@@ -13,6 +13,7 @@ I'm Dongwoo. Nice to see you :)
 - Internal medicine (especially cardiology)
 - Medical AI
 - Data science & statistics
+- Web development (front-end)
 
 ## Programming languages
 - Python
