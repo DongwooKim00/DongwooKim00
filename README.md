@@ -26,4 +26,4 @@ I'm Dongwoo. Nice to see you :)
 
 ## You can reach me by ...
 - Email (dongwoo6249@gmail.com)
-- [Instagram: dong_uu131](https://instagram.com/dong_uu131)
+- Instagram: [dong_uu131](https://instagram.com/dong_uu131)
