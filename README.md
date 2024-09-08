@@ -2,11 +2,9 @@
 DongwooKim00/DongwooKim00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-image:https://img.shields.io/badge/Medical%20Student-EB3324[Static Badge]
+![badge image](https://img.shields.io/badge/Medical%20Student-EB3324)
 
 # Hi there!
-image:https://img.shields.io/badge/Medical%20Student-EB3324[Static Badge]
-
 I'm Dongwoo. Nice to see you :)
 
 ## My academic background
